@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 998ea485-9cc4-49db-8ef6-b7c662c31e07
+  name: Heavy Metal 101 Website
+  pageRef: /external-resources/heavy-metal-101-website
+  weight: 10
+- identifier: 21302c1b-f3eb-4f05-8c7d-a46c911aa232
+  name: Heavy Metal 101 Class Archives
+  pageRef: /external-resources/heavy-metal-101-class-archives
+  weight: 20
