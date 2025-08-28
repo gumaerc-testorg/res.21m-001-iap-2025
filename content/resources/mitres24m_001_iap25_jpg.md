@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/heavy-metal-101-2025/mitres24m_001_iap25.jpg
+file: /ol-ocw-studio-app/courses/res-21m-001-heavy-metal-101-january-iap-2025/mitres24m_001_iap25.jpg
 file_size: 83025
 file_type: image/jpeg
 image_metadata:
