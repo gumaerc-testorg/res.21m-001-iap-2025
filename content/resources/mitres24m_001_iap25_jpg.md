@@ -8,11 +8,11 @@ file_type: image/jpeg
 image_metadata:
   caption: "Swedish melodic death metal band Arch Enemy, fronted by lead singer Alissa\
     \ White-Gluz, performs on stage at the 2019 Full Force Festival at Ferropolis,\
-    \ Germany, the \u201CCity of Iron.\u201D (Photo by Stefan Bollmann. Source: [Wikimedia\
-    \ Commons](https://commons.wikimedia.org/wiki/File:Arch_Enemy_Full_Force_2019_30.jpg).\
-    \ License: Attribution.)"
-  credit: 'Photo by Stefan Bollmann. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arch_Enemy_Full_Force_2019_30.jpg).
-    License: Attribution.'
+    \ Germany, the \u201CCity of Iron.\u201D (Photo by Stefan Bollmann. Source: {{%\
+    \ resource_link \"9581a1f0-64ae-4044-a165-b2b134222c1f\" \"Wikimedia Commons\"\
+    \ %}}. License: Attribution.)"
+  credit: 'Photo by Stefan Bollmann. Source: {{% resource_link "9581a1f0-64ae-4044-a165-b2b134222c1f"
+    "Wikimedia Commons" %}}. License: Attribution.'
   image-alt: Female metal singer standing center stage holding a microphone in one
     hand with the drums and guitarist behind, both of her arms are raised revealing
     the studded batwing sleeves of her leather jacket.
